@@ -1,7 +1,7 @@
 # RenderBuddy
 A handy tool and a guide to get your Unreal Engine capable of handling remote connections to control renders plus batch rendering and a few other things.
 
-## Philosphy
+## Philosophy
 While Unreal is very robust in the capabilities which can be applied to it. There is a gap between individuals/small-teams/freelancers and the big scale corporations. While, big teams are able to leverage the entire capability of Unreal and it's extensions, making use of new process/new thread renders or remote control or batching together renders - there is a gap in which the smaller teams are unable to fully utilize Unreal and bring themselves a lot of hassle whether that be because of time constraints or a non-technical orientation. This small tool hopes to bridge that gap quickly and get them up and running without disrupting their workflows.
 
 ![image.png](https://raw.githubusercontent.com/sudotman/sudotman/refs/heads/main/demos/RenderBuddy/BuddyMain.png)
