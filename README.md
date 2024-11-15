@@ -6,6 +6,9 @@ While Unreal is very robust in the capabilities which can be applied to it. Ther
 
 ![image.png](https://raw.githubusercontent.com/sudotman/sudotman/refs/heads/main/demos/RenderBuddy/BuddyMain.png)
 
+## Quick Start
+Clone the project and launch the project. Navigate to Blueprints and locate "RenderBuddy" and press on 'Run Utility Widget'.
+
 # **User Guide: Configuring RenderBuddy with Firebase and Unreal Engine**
 
 This guide will walk you through setting up **Firebase Realtime Database** and **Firebase Hosting** to track and display render status online for your Unreal Engine project.
